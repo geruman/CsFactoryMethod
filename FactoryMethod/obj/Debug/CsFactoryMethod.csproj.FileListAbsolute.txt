@@ -1,0 +1,7 @@
+D:\csharp\Patrones\CsFactoryMethod\FactoryMethod\obj\Debug\CsFactoryMethod.csproj.AssemblyReference.cache
+D:\csharp\Patrones\CsFactoryMethod\FactoryMethod\obj\Debug\CsFactoryMethod.csproj.CoreCompileInputs.cache
+D:\csharp\Patrones\CsFactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+D:\csharp\Patrones\CsFactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.exe
+D:\csharp\Patrones\CsFactoryMethod\FactoryMethod\bin\Debug\FactoryMethod.pdb
+D:\csharp\Patrones\CsFactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.exe
+D:\csharp\Patrones\CsFactoryMethod\FactoryMethod\obj\Debug\FactoryMethod.pdb
